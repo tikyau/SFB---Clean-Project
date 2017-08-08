@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xavier/Desktop/SkypeTesting/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/xavier/Desktop/SkypeTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7473f9466d9af1976fdac591244d85afe4e82f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xavier/Desktop/SkypeTesting/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f8c39ca71a3bbb922d7b2f6d1650ff3e3811240">
+        <dex dex="/Users/xavier/Desktop/SkypeTesting/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d5616251eb4a10c6f68637469f4c90ce7eb56b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xavier/Desktop/SkypeTesting/app/libs/annotations-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cd9a44396215582da2012ec63be12f3541d745ce">
+        <dex dex="/Users/xavier/Desktop/SkypeTesting/app/build/intermediates/transforms/dex/debug/folders/1000/2/annotations-1.0_1fabf865bc3d74c6b54e86dc3d4d2efcae096776/classes.dex" />
+    </item>
+
+</items>
